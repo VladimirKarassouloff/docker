@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Lien vers 
+Type=Link
+URL=file:///home/vkarassouloff/apache-tomcat-8.0.43/conf/tomcat-users.xml
+Icon=application-xml
